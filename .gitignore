@@ -1,6 +1,2 @@
 node_modules
-.next/trace
-.next/cache
-.next/static
-.next/react-loadable-manifest.json
-.next/build-manifest.json
+.next

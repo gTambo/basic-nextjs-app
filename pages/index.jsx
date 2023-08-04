@@ -5,7 +5,7 @@ function Header({ title }) {
 }
 
 function Article() {
-  return <article>A paragraph inside an article element.</article>;
+  return <article>Future content here.</article>;
 }
 
 export default function HomePage() {
